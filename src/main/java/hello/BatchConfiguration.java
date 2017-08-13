@@ -102,7 +102,7 @@ public class BatchConfiguration {
                 .<TimeSeries, TimeSeries> chunk(10)
                 .reader(reader())
                 .processor(splitData())
-                .writer(writer())
+             //   .writer(writer())
                 .build();
     }
     // end::jobstep[]
