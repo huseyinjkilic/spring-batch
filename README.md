@@ -25,5 +25,10 @@ It means all instrument1 or all values ??
 
 ![alt text](https://github.com/huseyinjkilic/spring-batch/blob/master/images/example_data.png)
 
-For first 3 lines, if I seperate 
+For first 3 lines, What should be output ?
+
+There is runnable jar file for only read data and check if it weekend or not.
+The jar file is under https://github.com/huseyinjkilic/spring-batch/tree/master/target
+You can run this jar file in command line java -jar huseyin-batch-processing-0.1.0.jar
+You need java 8 for this jar file.
 
